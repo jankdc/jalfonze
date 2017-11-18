@@ -18,6 +18,8 @@ profile_img: https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/15289064_10155245312
 profile: Thoughts and travels by yours truly.
 social:
   instagram: https://www.instagram.com/jalfonze
+  facebook: https://www.facebook.com/jalfonze
+  youtube: https://www.youtube.com/user/SluggerBrighton
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
