@@ -20,7 +20,7 @@ image-sm:  https://i.lensdump.com/i/dMILD.jpg
 # Why travel?
 
 
-* Almost everybody has an idea of what travel is and what it does for you, how to do it either cheap or luxuriously and even when and where to go. But why? Why travel? Is it because we want to break the monotony of our lives? See something different? Post cool pictures on Instagram to show off how awesome our lives are? Maybe it’s because we realise that there is more to life than just living one, therefore we seek another way to? Some has their personal reasons why and some are simply just going with the flow. Here are a few things I’ve realised on the move as to why I do.
+Almost everybody has an idea of what travel is and what it does for you, how to do it either cheap or luxuriously and even when and where to go. But why? Why travel? Is it because we want to break the monotony of our lives? See something different? Post cool pictures on Instagram to show off how awesome our lives are? Maybe it’s because we realise that there is more to life than just living one, therefore we seek another way to? Some has their personal reasons why and some are simply just going with the flow. Here are a few things I’ve realised on the move as to why I do.
 
 
 ### To realise your place in the world.
