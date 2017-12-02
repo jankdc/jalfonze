@@ -18,6 +18,6 @@ Our species is riddled with flaws. Greed induced poverty, selfishness and disreg
 
 #### So the next time you ask yourselves Why travel? Just know that it’s not just about taking pictures at landmarks, partying until you’ve forgotten who you are or going just because your newsfeed is full of pretty photographs, because, and I hope that a majority of people would agree with me here, there is more to it than that.
 
-![dLGkz.jpg](https://i.lensdump.com/i/dLGkz.jpg)
+[![dLGkz.md.jpg](https://i.lensdump.com/i/dLGkz.md.jpg)](https://lensdump.com/i/dLGkz)
 
 # Happy Travels.
