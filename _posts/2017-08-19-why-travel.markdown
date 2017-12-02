@@ -5,8 +5,8 @@ date: 2017-08-12
 categories:
   - Lifestyle
 description: 
-image: ![dMILD.jpg](https://i.lensdump.com/i/dMILD.jpg)
-image-sm: ![dMILD.jpg](https://i.lensdump.com/i/dMILD.jpg)
+image:  ![dMILD.jpg](https://i.lensdump.com/i/dMILD.jpg)
+image-sm:  ![dMILD.jpg](https://i.lensdump.com/i/dMILD.jpg)
 ---
 
 
@@ -42,9 +42,6 @@ Our species is riddled with flaws. Greed induced poverty, selfishness and disreg
 
 
 ** So the next time you ask yourselves Why travel? Just know that it’s not just about taking pictures at landmarks, partying until you’ve forgotten who you are or going just because your newsfeed is full of pretty photographs, because, and I hope that a majority of people would agree with me here, there is more to it than that. **
-
-
-![dw0U0.jpg](https://i.lensdump.com/i/dw0U0.jpg)
 
 
 # Happy Travels.
