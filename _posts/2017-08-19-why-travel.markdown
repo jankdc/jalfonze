@@ -1,3 +1,14 @@
+---
+layout: post
+title: "Why Travel"
+date: 2016-02-19
+categories:
+  - Lifestyle
+description: 
+image: https://lensdump.com/i/dMILD
+image-sm: https://lensdump.com/i/dMILD
+---
+
 #### I know I haven’t been doing as well as I should in terms of updating my blog with new entries, only because a lot has been going on. I have been living and working in The Daintree Rainforest for the past three months which has been an incredible experience not only for inspiration but also for the mentality. Being in such a remote location with minor distractions, I was again able to evaluate certain aspects of life that once plagued my mind. Existential questions such as  “Why are we here?”, “What are we all doing?” and  “What is the point of it all?” had resurfaced, yet in a less threatening demeanour as they had before. I didn’t so much have an answer to any of those questions but in the midst of my thoughts, another uncertainty manifested itself. One I found easier to comprehend and give an answer to.
 
 # Why travel? 
@@ -16,8 +27,8 @@ Neuroplasticity is the term for when our brains changes due to the exposure to n
 
 Our species is riddled with flaws. Greed induced poverty, selfishness and disregard for others because of our pride and humanity’s lust for power which has led to countless genocides and the destruction of our planet. We are the smartest species as we have the potential to exceed in science and create mechanisms that could be beneficial for all yet we are also the dumbest as instead of creating, we destroy. We destroy the only habitable planet in our solar system with the other “potentially” habitable planet being lightyears away. No one ever thinks about that. About what will happen when there are no more trees and all water is polluted, because everyone is too distracted following the latest beauty trend or what these moronic rich people on reality television are doing. Too distracted by the latest pop song that has one hypnotic tone and very simple lyrics, a 10 year old could have written, if they had been exposed to the life of a very disturbed adult. Too focused on other people’s lives rather than our own. Fact is, being a traveller you are exposed to what is happening in the real world. You have no desire to focus on other people’s lives as you are too occupied managing your own, no time to follow trends as you’re too busy chasing your next adventure. And in chasing your next adventure you see the world for what it really is. You become aware of poverty first hand as oppose to seeing those horrible adverts on TV about it. The underlying anger of indegenous tribes towards man, after a brutal massacre of an entire culture that has been dismissed by the rest of the world. The destruction of cities due to wars and natural disasters that hasn’t been restored due to corruption. But in all of the negativity, you see humanity survive and power through. You see them try to rebuild. You see them go on with a smile on their face as if to say tomorrow will be a better day. If travelling has taught me anything, it’s that humans all want the same thing. To have food, water and shelter, safety for themselves and their loved ones and to be part of a community and watch that community grow. We will never truly appreciate what has happened on our planet in the past hundreds or even thousands of years but being out there experiencing it for yourself really puts your life in perspective. It makes you realise the struggles and triumphs of humanity and raise awareness to the fact that your life is just amongst billions of other lives all coexisting on the same place, trying to get by each day. 
 
-#### So the next time you ask yourselves Why travel? Just know that it’s not just about taking pictures at landmarks, partying until you’ve forgotten who you are or going just because your newsfeed is full of pretty photographs, because, and I hope that a majority of people would agree with me here, there is more to it than that.
+![dMBbP.jpg](https://i.lensdump.com/i/dMBbP.jpg)
 
-[![dLGkz.md.jpg](https://i.lensdump.com/i/dLGkz.md.jpg)](https://lensdump.com/i/dLGkz) 
+#### So the next time you ask yourselves Why travel? Just know that it’s not just about taking pictures at landmarks, partying until you’ve forgotten who you are or going just because your newsfeed is full of pretty photographs, because, and I hope that a majority of people would agree with me here, there is more to it than that. 
 
 # Happy Travels.
