@@ -12,7 +12,7 @@ image-sm:  https://i.lensdump.com/i/dMILD.jpg
 
 
 
-**I know I haven’t been doing as well as I should in terms of updating my blog with new entries, only because a lot has been going on. I have been living and working in The Daintree Rainforest for the past three months which has been an incredible experience not only for inspiration but also for the mentality. Being in such a remote location with minor distractions, I was again able to evaluate certain aspects of life that once plagued my mind. Existential questions such as  “Why are we here?”, “What are we all doing?” and  “What is the point of it all?” had resurfaced, yet in a less threatening demeanour as they had before. I didn’t so much have an answer to any of those questions but in the midst of my thoughts, another uncertainty manifested itself. One I found easier to comprehend and give an answer to.**
+*I know I haven’t been doing as well as I should in terms of updating my blog with new entries, only because a lot has been going on. I have been living and working in The Daintree Rainforest for the past three months which has been an incredible experience not only for inspiration but also for the mentality. Being in such a remote location with minor distractions, I was again able to evaluate certain aspects of life that once plagued my mind. Existential questions such as  “Why are we here?”, “What are we all doing?” and  “What is the point of it all?” had resurfaced, yet in a less threatening demeanour as they had before. I didn’t so much have an answer to any of those questions but in the midst of my thoughts, another uncertainty manifested itself. One I found easier to comprehend and give an answer to.*
 
 
 ![dMILD.jpg](https://i.lensdump.com/i/dMILD.jpg)
