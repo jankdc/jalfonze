@@ -3,7 +3,7 @@ layout: post
 title: "Life On The Road"
 date: 2017-04-20
 categories:
-  - Lifestyle
+  - Thoughts
 description: 
 image: https://i.lensdump.com/i/dwoOF.jpg
 image-sm: https://i.lensdump.com/i/dwoOF.jpg
