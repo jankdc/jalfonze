@@ -3,7 +3,7 @@ layout: post
 title: "Why Travel"
 date: 2017-08-12
 categories:
-  - Lifestyle
+  - Thoughts
 description: 
 image:  https://i.lensdump.com/i/dMILD.jpg
 image-sm:  https://i.lensdump.com/i/dMILD.jpg
