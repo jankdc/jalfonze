@@ -9,8 +9,8 @@ image: https://i.lensdump.com/i/dwoOF.jpg
 image-sm: https://i.lensdump.com/i/dwoOF.jpg
 ---
 
-*What I had learnt whilst living on the road.*\
-*It’s been four weeks since Cairns, Australia. Where this trip began.*\
+*What I had learnt whilst living on the road.*
+*It’s been four weeks since Cairns, Australia. Where this trip began.*
 *For the past ten months, I have constantly moved from one place to another. Lived out of my bags and haven’t had a permanent residence to call home. I’ve lived on the sofas of my colleagues, the living room at my parent’s and shared a few beds with friends. Being on the go wasn’t new to me, therefore I thought that a month long road trip would be nothing but a box to tick, an adventure to have and a story to tell. But as always, it never turns out how you expect it. You learn a lot about yourself, others and realise things you never would on the daily grind.*
 
 ![dwvnb.jpg](https://i.lensdump.com/i/dwvnb.jpg)
