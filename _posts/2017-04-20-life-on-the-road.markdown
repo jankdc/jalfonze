@@ -5,8 +5,8 @@ date: 2017-04-20
 categories:
   - Lifestyle
 description: 
-image: https://i.lensdump.com/i/dw6Tk.jpg
-image-sm: https://i.lensdump.com/i/dw6Tk.jpg
+image: https://i.lensdump.com/i/dwoOF.jpg
+image-sm: https://i.lensdump.com/i/dwoOF.jpg
 ---
 
 # What I had learnt whilst living on the road.
