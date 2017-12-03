@@ -14,7 +14,7 @@ default_img:
 
 # Profile settings
 name: Justin Alfonso
-profile_img: https://i.lensdump.com/i/dwuc3.jpg7
+profile_img: ![dwuc3.jpg](https://i.lensdump.com/i/dwuc3.jpg)
 profile: A dreamer born in Manila, Philippines but raised in Brighton, England. A musician by graduate, chef by trade and a traveller at heart. Meet, Live, Explore.
 social:
   instagram: https://www.instagram.com/jalfonze
