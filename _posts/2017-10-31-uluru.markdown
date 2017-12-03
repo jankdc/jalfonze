@@ -3,7 +3,7 @@ layout: post
 title: "Uluru"
 date: 2017-10-31
 categories:
-  - Destinations
+  - Journey
 description: 
 image: https://i.lensdump.com/i/dxhwr.jpg
 image-sm: https://i.lensdump.com/i/dxhwr.jpg
