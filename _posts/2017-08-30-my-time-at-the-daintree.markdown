@@ -3,7 +3,7 @@ layout: post
 title: "My Time at The Daintree Rainforest"
 date: 2017-08-30
 categories:
-  - Juice
+  - Journey
 description: 
 image: https://i.lensdump.com/i/qCaez.jpg
 image-sm: https://i.lensdump.com/i/qCaez.jpg
