@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Pleace To Heal"
+title: "A Place To Heal"
 date: 2011-06-01
 categories:
   - Journey
