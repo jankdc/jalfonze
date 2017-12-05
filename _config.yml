@@ -7,10 +7,10 @@ google_analytics:
 
 # SEO settings
 title: Jalfonze
-description: Justin's Personal Blog
+description: A blog on my thoughts and travels. Come follow me on my journey so far!
 url: "https://jalfonze.com"
 twitter_username:
-default_img:
+default_img: https://i.lensdump.com/i/dwoOF.jpg
 
 # Profile settings
 name: Justin Alfonso
