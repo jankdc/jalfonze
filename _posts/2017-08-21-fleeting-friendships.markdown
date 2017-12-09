@@ -5,8 +5,8 @@ date: 2017-08-21
 categories:
   - Thoughts
 description: 
-image: https://unsplash.it/2000/1200?image=1003
-image-sm: https://unsplash.it/500/300?image=1003
+image: https://i.lensdump.com/i/mBROD.jpg
+image-sm: https://i.lensdump.com/i/mBROD.jpg
 ---
 
 *My thought's on the people you meet whilst you're on the road.*
@@ -15,5 +15,6 @@ As I sat with the other travellers living in the hostel, I couldn’t help but n
 
 So the next time you’re out there and you meet people whom you adore, don’t let yourself get to the stage of sorrow when it’s time to depart from each other. Enjoy their time as much as you can and build a true connection as every time you do, you will never say goodbye, only see you later.
 
+![mBROD.jpg](https://i.lensdump.com/i/mBROD.jpg)
 
 # Happy Travels.
