@@ -5,8 +5,8 @@ date: 2017-03-27
 categories:
   - Journey
 description: 
-image: https://unsplash.it/2000/1200?image=1003
-image-sm: https://unsplash.it/500/300?image=1003
+image: https://i.lensdump.com/i/mBTcq.jpg
+image-sm: https://i.lensdump.com/i/mBTcq.jpg
 ---
 
 *London -> Dubai -> Brunei -> Melbourne*
@@ -31,6 +31,6 @@ The Ritz really does cater for all types of people and there was a real communit
 
 Welcome to The Ritz in St Kilda, where you can check out anytime you like, but never really leave.
 
-
+![mBTcq.jpg](https://i.lensdump.com/i/mBTcq.jpg)
 
 # Happy Travels.
