@@ -5,14 +5,14 @@ date: 2017-09-29
 categories:
   - Thoughts
 description: 
-image: https://unsplash.it/2000/1200?image=1003
-image-sm: https://unsplash.it/500/300?image=1003
+image: https://i.lensdump.com/i/mB6sM.jpg
+image-sm: https://i.lensdump.com/i/mB6sM.jpg
 ---
 **For those unfamiliar with the concept of “Van Life”, It is essentially choosing a life, living on the road. Investing money in building the perfect mobile homes as opposed to houses or apartments. Some undergo this lifestyle for months or even years, saving a substantial amount of money beforehand, picking up odd jobs on the way, working online or living off passive income. I have had the pleasure of having a taster of this life and it’s something that I’ve always wanted to do again in the future for even more of a longer term. Our month-long road trip, on the East Coast of Australia, was not only a fun experience but had also become an eye-opener as it gave me an idea for another venture I could embark upon. Click here to visit my previous entry which details my previous experience.**
 
 I’m currently in the Red Desert Centre of Australia, Alice Springs, where I have met a few people that have converted their vans to live in and are living in their vans full-time whilst road tripping all over Australia. Alice Springs lies in the heart of Australia, approximately 1500 km (932 mi.) away from the next big city. (Darwin being the closest, 1496 km away and 2772 km away from Sydney). It’s in the middle of the desert with not much in between and is not an easy destination to get to. Nevertheless, these adventurous travellers, have found their way here to the Red Centre, with their modified vehicles that they have used to live in on their journey.
 
-
+![mBmH1.jpg](https://i.lensdump.com/i/mBmH1.jpg)
 
 I have had the opportunity to meet Hannah Maljacov, a 21-year-old Australian, who has been travelling for 11 months straight, living in her modified station wagon. She has been very kind to let me ask her a few questions about her experiences which in turn should give me and all of you readers a better insight on the truth about living on the road.
 
@@ -20,13 +20,18 @@ I have had the opportunity to meet Hannah Maljacov, a 21-year-old Australian, wh
 
 *So I’m from Wodonga, which is on the border of Victoria and New South Wales. Also, known as Albury-Wodonga which is pretty much in the middle of Melbourne and Sydney. I drive a Subaru Outback 98 2.5 litre Manual, which is an all-wheel drive, similar to a four-wheel. I bought it a year before I went to live on the road and I didn’t know I was actually gonna live on the road then but I’ve just always wanted a car that I was able to sleep in. Especially because I don’t normally use a car to commute generally, I only used it for camping and long distance drives. The only annoying thing about this car is that its low clearance but other than that its great.*
 
+[![mBCDQ.jpg](https://i.lensdump.com/i/mBCDQ.jpg)](https://lensdump.com/i/mBCDQ)
+
 #### How did you go by modifying it, was it something you already knew how to do?
 
 *It was something I looked into so I had to take it step by step, first with the bed, then getting roof-racks and adding a tow-bar, getting a roof pod, building in storage and different things like that. I did look on the internet to see if anyone else had my type of car and was living in it because generally, people would get cars that are a bit bigger or vans for example, but there were a few people in America that had temporarily lived in their car but usually just had a mattress on the floor. I wanted to make something more convertible so I could still have seats in the back but still have a bed, so that’s what I did.*
 
+
 #### So are you a carpenter by trade?
 
 *No, by trade I’m a permaculture designer but I want to become a carpenter and that’s what I’m doing in Alice Springs at the moment, I will be studying next year. I’ve built a few things and can be quite handy but then again it’s just one of those things where some things I know, some things I don’t, so I’m a bit of a jack of all trades master of none type of person.*
+
+![mB9vk.jpg](https://i.lensdump.com/i/mB9vk.jpg)
 
 #### When did you start and what was it that made you want to embark on this journey?
 
@@ -39,6 +44,8 @@ I have had the opportunity to meet Hannah Maljacov, a 21-year-old Australian, wh
 #### Were you scared of living on the road?
 
 *I wasn’t scared, at first it was just a little bit like “Where am I gonna sleep”, “Where am I gonna pull my car up”, “I’ve never been to these places before”. I was mainly just scared of hitting a kangaroo or losing my licence for being unfamiliar with the traffic laws in the state or not seeing something, but other than that, no, I wasn’t scared of the typical things that you’d think about, being an isolated woman in the bush.*
+
+![mBQAa.jpg](https://i.lensdump.com/i/mBQAa.jpg)
 
 #### What about your family and friends, they were supportive?
 
@@ -68,6 +75,8 @@ I have had the opportunity to meet Hannah Maljacov, a 21-year-old Australian, wh
 
 *(Laughs) Thank you!*
 
+![mBd5x.jpg](https://i.lensdump.com/i/mBd5x.jpg)
+
 
 #### I’m not gonna pry on that subject too much but after that experience, would you consider living on the road with somebody? Because from what I gather, you’re an avid solo traveller.
 
@@ -82,6 +91,8 @@ I have had the opportunity to meet Hannah Maljacov, a 21-year-old Australian, wh
 
 *Ah, now that’s really hard because Australia is so beautiful. There are so many different contrasting images and places and zones and climates so it’s really hard. It’s hard what to compare, like do you compare on the food or the services, do you compare the landscapes or the free activities, everything is just so different. It also depends on your headspace, like you could be at the most beautiful spot but you could be having a hard time with yourself so then again, it might not be such a beautiful spot because you’re not enjoying it or you’re sick at the time. But I loved the northern rivers area, not Byron Bay as much because everyone just assumes Byron Bay, but I really did like Mullumbimby, Nimbin, Kyogle and all those beautiful places in the rainforest, with the waterfalls and the lush green everywhere. I also really enjoyed Tasmania and I also really like the desert having been in the desert for a while now.*
 
+![mBVVe.jpg](https://i.lensdump.com/i/mBVVe.jpg)
+
 #### Any personal advice for people, such as myself that would like to try the life on the road?
 
 So my advice. One. Even if you have a partner, leave them at home and travel by yourself. Two. Save as much as you can to do it so you don’t have to feel the pressures of having to work. You’ll be a lot more relaxed that way. You can always pick up jobs on the way to earn more but especially with having a car, lot’s of things can go wrong so it’s good to have a backup.
@@ -92,5 +103,6 @@ So that was my interview with Hannah Maljacov, be sure to follow her adventures 
 
 It is something that has always been on my mind and something I have always wanted to try out. So once I sort out my driver’s licence, a life on the road will be the next step.
 
+![mB6sM.jpg](https://i.lensdump.com/i/mB6sM.jpg)
 
 # Happy Travels.
