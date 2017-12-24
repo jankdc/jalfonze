@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Place To Heal"
-date: 2011-06-01
+date: 2017-06-01
 categories:
   - Journey
 description: 
