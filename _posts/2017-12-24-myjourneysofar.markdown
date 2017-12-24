@@ -3,7 +3,7 @@ layout: post
 title: "My Journey So Far"
 date: 2017-12-15
 categories:
-  - EP
+  - Music
 description: 
 image: https://i.lensdump.com/i/7kHXC.jpg
 image-sm: https://i.lensdump.com/i/7kHXC.jpg
