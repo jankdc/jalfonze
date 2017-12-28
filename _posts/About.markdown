@@ -1,0 +1,39 @@
+---
+layout: post
+title: "About"
+date: 2016-02-19
+categories:
+  - About
+description: What is Jalfonze? 
+image: https://i.lensdump.com/i/O7L4T.jpg
+image-sm: https://i.lensdump.com/i/O7L4T.jpg
+---
+
+Hello and Welcome to my Website!
+
+Please let me introduce myself.
+
+# Who am I?
+
+My name is Justin Alfonso. I was born in Manila, Philippines on October 25th 1992 and emigrated to Brighton, England on 5th July 2001. At 8 years-old, I was exposed to a new culture so different to what I was used to and due to my age and personality, I was able to adapt myself with ease without forgetting where I came from. As I got older, my interests moved from music, writing and cooking, eventually graduating with a Music Production Degree, However, due to my lack of desire to pursue a career in music, I opted to work in a kitchen, working my way up from washing dishes to chef. After a few years of this, I realised that my skills in the kitchen are favoured in most places so I decided to travel in Australia, and worked as a chef to pay for my travels. This was where my travels officially began.
+
+I created this website to highlight and share my experiences with the world, with hopes to inspire others to do what they believe they are meant to do. 
+
+Read below.
+
+![O7eX5.jpg](https://i.lensdump.com/i/O7eX5.jpg)
+
+*What is Jalfonze.*
+
+Jalfonze is a concept which I have slowly weaved together based on my own personal experiences on this walk of life. An amalgamation of wisdom that I have discovered on my journey so far, which, in turn has aided me in to dealing with the trials and tribulations that our existence inevitably brings. 
+
+*Jalfonze is an idea.*
+
+It is to follow your own path regardless of fear in any shape or form. To think and do for yourself as oppose to thinking how you have been told to think and only doing what is expected of you. To not scorn but embrace the difference of people and cultures and to welcome new ideas that come your way. To realise that, even though we are not all equally able-bodied, equally emotive nor do we all encompass equal inelligence, we can all equally play a part in each others lives, to help each other grow by sharing what we have to those that doesn't. 
+More importantly, to be Jalfonze is to have the desire to create something that can benefit others, not for the love of money but for the love of community.
+
+So whenever you feel scared and excited about a new venture, just remember, Be Jalfonze.
+
+![O7L4T.jpg](https://i.lensdump.com/i/O7L4T.jpg)
+
+# Happy Travels.
