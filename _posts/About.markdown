@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About"
-date: 2016-02-19
+date: 
 categories:
   - About
 description: What is Jalfonze? 
