@@ -6,7 +6,7 @@ categories:
   - About
 description: What is Jalfonze? 
 image: https://i.lensdump.com/i/O7L4T.jpg
-image-sm: https://i.lensdump.com.rsz.io/i/O7L4T.jpg?w=500
+image-sm: https://i.lensdump.com/i/O7L4T.jpg
 ---
 
 Hello and Welcome to my Website!
