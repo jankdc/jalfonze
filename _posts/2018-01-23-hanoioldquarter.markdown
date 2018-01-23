@@ -9,7 +9,7 @@ image: https://i.lensdump.com/i/FCLtr.jpg
 image-sm: https://i.lensdump.com/i/FCLtr.jpg
 ---
 
-### My first edition on my Black and White Photography project.
+### My first edition on my Black and White Photography project.
 
 **Shots are taken in Hanoi's Old Quarter.**
 
