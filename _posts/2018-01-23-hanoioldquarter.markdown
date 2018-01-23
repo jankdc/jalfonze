@@ -29,7 +29,7 @@ image-sm: https://i.lensdump.com/i/FCLtr.jpg
 *Street vendors which can be found all over the city, selling fruits, vegetables and sometimes sweet delicacies*
 
 ![FCNMq.jpg](https://i.lensdump.com/i/FCNMq.jpg)
-*A interesting looking doorway which are dotted all over the city.*
+*An interesting looking doorway which are dotted all over the city.*
 
 ![FCPhA.jpg](https://i.lensdump.com/i/FCPhA.jpg)
 *A building in the Old Quarter with a European style architechture.*
