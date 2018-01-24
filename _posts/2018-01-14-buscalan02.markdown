@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Road To Buscalan Part 2"
-date: 2018-01-14
+date: 2018-01-25
 categories:
   - Journey
 description: 
