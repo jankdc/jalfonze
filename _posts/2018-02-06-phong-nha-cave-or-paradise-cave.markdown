@@ -33,9 +33,12 @@ It was a really pleasant boat ride and the cave was very nice but I didn’t enj
 
 ![5kdRD.jpg](https://i.lensdump.com/i/5kdRD.jpg)
 
-The rock formations here were a nicer and at end, you can see the small amount of light, lighting up the entrance of the cave. When we outside, there were places to get coffee and ‘nước mía’, which is sugarcane juice in English. I sat there and chatted with the Vietnamese people that were on the same tour as me. Two could speak English very well and we spoke about how Phong Nha is developing into a great spot for tourists and travellers alike. We did this over a glass of sugarcane juice which they had so kindly bought for me until we were all ready to head back to the boat station. As I had to rely on other people to turn up, doing this solo wasn’t really ideal but as we were on the way back, I noticed about 10 boats on their way to the same cave so overall I was glad I got there nice and early to do it by myself. As big as the cave was, I can only imagine how crowded it would have felt as those boats try to manoeuvre around each other in that cave. 
+The rock formations here were a nicer and at end, you can see the small amount of light, lighting up the entrance of the cave. When we outside, there were places to get coffee and ‘nước mía’, which is sugarcane juice in English. I sat there and chatted with the Vietnamese people that were on the same tour as me. Two could speak English very well and we spoke about how Phong Nha is developing into a great spot for tourists and travellers alike. We did this over a glass of sugarcane juice which they had so kindly bought for me until we were all ready to head back to the boat station. 
 
 ![5kC8r.jpg](https://i.lensdump.com/i/5kC8r.jpg)
+
+As I had to rely on other people to turn up, doing this solo wasn’t really ideal but as we were on the way back, I noticed about 10 boats on their way to the same cave so overall I was glad I got there nice and early to do it by myself. As big as the cave was, I can only imagine how crowded it would have felt as those boats try to manoeuvre around each other in that cave. 
+
 
 ### Paradise Cave (Thiên Đường Cave)
 
