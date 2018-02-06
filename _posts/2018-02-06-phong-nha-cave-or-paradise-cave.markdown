@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Craft Beer"
-date: 2016-02-19
+title: "Phong Nha Cave or Paradise Cave"
+date: 2018-02-06
 categories:
-  - Juice
-description: 
-image: https://unsplash.it/2000/1200?image=1003
-image-sm: https://unsplash.it/500/300?image=1003
+  - Journey
+description: My experiences of the 2 popular caves in Phong Nha Ke Bang.
+image: https://i.lensdump.com/i/5kBUA.jpg
+image-sm: https://i.lensdump.com/i/5kBUA.jpg
 ---
 
 After a 12-hour ride from Ninh Binh, I arrived at Phong Nha in the early evening. 6 pm to be exact. I wasn’t sure what to expect to form this developing town but judging from the way in, I knew it was going to be a beautiful place and I wasn’t wrong. A town built right next to huge limestone rocks made me feel as if I was in some kind of movie researching for hidden treasures which lies in the surrounding caves. There was a river that ran through which looked stunning against the rocks. The town is small. Consisting of really only one main street where there are countless of places to eat and stay. I didn’t expect it to be this touristy and I soon found out that this was only a recent affair. Phong Nha used to be one of the poorest places in Vietnam which all changed when tourism arrived and I’m not surprised. It was mesmerising. 
